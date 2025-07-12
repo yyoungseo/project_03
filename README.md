@@ -68,12 +68,9 @@
 
 ## 📁 프로젝트 구조 (Directory Structure)
 ```
-📂 data/
-📂 notebooks/
-📂 visuals/
 📄 README.md
-📄 requirements.txt
-📄 analysis_report.pdf (또는 보고서 이미지)
+📄 분석파일.ipynb
+📄 원페이퍼_보고서.pdf
 ```
 <br />
 
